@@ -69,13 +69,13 @@
       ><path d="M0 0 L0 67 L104 67 L104 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath22"
-      ><path d="M-92 -14 L184 -14 L184 28 L-92 28 L-92 -14 Z"
+      ><path d="M-86 -14 L172 -14 L172 28 L-86 28 L-86 -14 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath23"
       ><path d="M-135 -14 L270 -14 L270 28 L-135 28 L-135 -14 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath24"
-      ><path d="M-86 -14 L172 -14 L172 28 L-86 28 L-86 -14 Z"
+      ><path d="M-92 -14 L184 -14 L184 28 L-92 28 L-92 -14 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath25"
       ><path d="M0 0 L261 0 L261 153 L0 153 L0 0 Z"
@@ -304,17 +304,17 @@
     ><text x="12" xml:space="preserve" y="37" clip-path="url(#clipPath21)" stroke="none"
       >Hủy đơn hàng</text
     ></g
-    ><g font-size="11px" transform="translate(2,536)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" stroke-opacity="1"
+    ><g font-size="11px" transform="translate(5,138)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" stroke-opacity="1"
     ><text x="10" xml:space="preserve" y="11" clip-path="url(#clipPath22)" stroke="none"
-      >Quản trị viên</text
+      >Khách hàng</text
     ></g
     ><g font-size="11px" transform="translate(632,318)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" stroke-opacity="1"
     ><text x="10" xml:space="preserve" y="11" clip-path="url(#clipPath23)" stroke="none"
       >Hệ thống thanh toán</text
     ></g
-    ><g font-size="11px" transform="translate(5,138)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" stroke-opacity="1"
+    ><g font-size="11px" transform="translate(2,536)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" stroke-opacity="1"
     ><text x="10" xml:space="preserve" y="11" clip-path="url(#clipPath24)" stroke="none"
-      >Khách hàng</text
+      >Quản trị viên</text
     ></g
     ><g stroke-linecap="butt" font-size="11px" transform="translate(13,9)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke-linejoin="round" stroke="black" stroke-opacity="1"
     ><line y2="50" fill="none" x1="50" clip-path="url(#clipPath26)" x2="207" y1="99"
